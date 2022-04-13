@@ -5,6 +5,10 @@
 	<artifactId>fitness-example</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+	<properties>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+	</properties>
 	<name>Fitness Example for Function Refactoring</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
